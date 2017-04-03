@@ -1,0 +1,17 @@
+C:\Users\Mrwav\documents\visual studio 2015\Projects\AppiumTest\AppiumTest\bin\x86\Debug\AppiumTest.dll.config
+C:\Users\Mrwav\documents\visual studio 2015\Projects\AppiumTest\AppiumTest\bin\x86\Debug\AppiumTest.dll
+C:\Users\Mrwav\documents\visual studio 2015\Projects\AppiumTest\AppiumTest\bin\x86\Debug\AppiumTest.pdb
+C:\Users\Mrwav\documents\visual studio 2015\Projects\AppiumTest\AppiumTest\bin\x86\Debug\appium-dotnet-driver.dll
+C:\Users\Mrwav\documents\visual studio 2015\Projects\AppiumTest\AppiumTest\bin\x86\Debug\Castle.Core.dll
+C:\Users\Mrwav\documents\visual studio 2015\Projects\AppiumTest\AppiumTest\bin\x86\Debug\Newtonsoft.Json.dll
+C:\Users\Mrwav\documents\visual studio 2015\Projects\AppiumTest\AppiumTest\bin\x86\Debug\nunit.framework.dll
+C:\Users\Mrwav\documents\visual studio 2015\Projects\AppiumTest\AppiumTest\bin\x86\Debug\WebDriver.dll
+C:\Users\Mrwav\documents\visual studio 2015\Projects\AppiumTest\AppiumTest\bin\x86\Debug\WebDriver.Support.dll
+C:\Users\Mrwav\documents\visual studio 2015\Projects\AppiumTest\AppiumTest\bin\x86\Debug\appium-dotnet-driver.xml
+C:\Users\Mrwav\documents\visual studio 2015\Projects\AppiumTest\AppiumTest\bin\x86\Debug\Castle.Core.xml
+C:\Users\Mrwav\documents\visual studio 2015\Projects\AppiumTest\AppiumTest\bin\x86\Debug\Newtonsoft.Json.xml
+C:\Users\Mrwav\documents\visual studio 2015\Projects\AppiumTest\AppiumTest\bin\x86\Debug\nunit.framework.xml
+C:\Users\Mrwav\documents\visual studio 2015\Projects\AppiumTest\AppiumTest\bin\x86\Debug\WebDriver.xml
+C:\Users\Mrwav\documents\visual studio 2015\Projects\AppiumTest\AppiumTest\bin\x86\Debug\WebDriver.Support.xml
+C:\Users\Mrwav\documents\visual studio 2015\Projects\AppiumTest\AppiumTest\obj\x86\Debug\AppiumTest.dll
+C:\Users\Mrwav\documents\visual studio 2015\Projects\AppiumTest\AppiumTest\obj\x86\Debug\AppiumTest.pdb

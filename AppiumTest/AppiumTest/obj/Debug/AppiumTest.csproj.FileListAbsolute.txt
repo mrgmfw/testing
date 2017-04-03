@@ -1,0 +1,56 @@
+C:/Users/Mrwav/documents/visual studio 2015/Projects/AppiumTest/AppiumTest/bin/Debug/AppiumTest.dll.config
+C:/Users/Mrwav/documents/visual studio 2015/Projects/AppiumTest/AppiumTest/bin/Debug/AppiumTest.dll
+C:/Users/Mrwav/documents/visual studio 2015/Projects/AppiumTest/AppiumTest/bin/Debug/AppiumTest.pdb
+C:/Users/Mrwav/documents/visual studio 2015/Projects/AppiumTest/AppiumTest/bin/Debug/appium-dotnet-driver.dll
+C:/Users/Mrwav/documents/visual studio 2015/Projects/AppiumTest/AppiumTest/bin/Debug/Castle.Core.dll
+C:/Users/Mrwav/documents/visual studio 2015/Projects/AppiumTest/AppiumTest/bin/Debug/Newtonsoft.Json.dll
+C:/Users/Mrwav/documents/visual studio 2015/Projects/AppiumTest/AppiumTest/bin/Debug/nunit.framework.dll
+C:/Users/Mrwav/documents/visual studio 2015/Projects/AppiumTest/AppiumTest/bin/Debug/WebDriver.dll
+C:/Users/Mrwav/documents/visual studio 2015/Projects/AppiumTest/AppiumTest/bin/Debug/WebDriver.Support.dll
+C:/Users/Mrwav/documents/visual studio 2015/Projects/AppiumTest/AppiumTest/bin/Debug/appium-dotnet-driver.xml
+C:/Users/Mrwav/documents/visual studio 2015/Projects/AppiumTest/AppiumTest/bin/Debug/Castle.Core.xml
+C:/Users/Mrwav/documents/visual studio 2015/Projects/AppiumTest/AppiumTest/bin/Debug/Newtonsoft.Json.xml
+C:/Users/Mrwav/documents/visual studio 2015/Projects/AppiumTest/AppiumTest/bin/Debug/nunit.framework.xml
+C:/Users/Mrwav/documents/visual studio 2015/Projects/AppiumTest/AppiumTest/bin/Debug/WebDriver.xml
+C:/Users/Mrwav/documents/visual studio 2015/Projects/AppiumTest/AppiumTest/bin/Debug/WebDriver.Support.xml
+C:/Users/Mrwav/documents/visual studio 2015/Projects/AppiumTest/AppiumTest/obj/Debug/AppiumTest.dll
+C:/Users/Mrwav/documents/visual studio 2015/Projects/AppiumTest/AppiumTest/obj/Debug/AppiumTest.pdb
+C:/Users/Mrwav/documents/visual studio 2015/Projects/AppiumTest/AppiumTest/bin/Debug/Program.cs
+C:/Users/Mrwav/documents/visual studio 2015/Projects/AppiumTest/AppiumTest/obj/Debug/AppiumTest.csprojResolveAssemblyReference.cache
+/Volumes/share/AppiumTest/AppiumTest/bin/Debug/Program.cs
+/Volumes/share/AppiumTest/AppiumTest/bin/Debug/AppiumTest.dll.config
+/Volumes/share/AppiumTest/AppiumTest/bin/Debug/AppiumTest.dll
+/Volumes/share/AppiumTest/AppiumTest/bin/Debug/AppiumTest.dll.mdb
+/Volumes/share/AppiumTest/AppiumTest/bin/Debug/appium-dotnet-driver.dll
+/Volumes/share/AppiumTest/AppiumTest/bin/Debug/Castle.Core.dll
+/Volumes/share/AppiumTest/AppiumTest/bin/Debug/Newtonsoft.Json.dll
+/Volumes/share/AppiumTest/AppiumTest/bin/Debug/nunit.framework.dll
+/Volumes/share/AppiumTest/AppiumTest/bin/Debug/WebDriver.dll
+/Volumes/share/AppiumTest/AppiumTest/bin/Debug/WebDriver.Support.dll
+/Volumes/share/AppiumTest/AppiumTest/bin/Debug/appium-dotnet-driver.xml
+/Volumes/share/AppiumTest/AppiumTest/bin/Debug/Castle.Core.xml
+/Volumes/share/AppiumTest/AppiumTest/bin/Debug/Newtonsoft.Json.xml
+/Volumes/share/AppiumTest/AppiumTest/bin/Debug/nunit.framework.xml
+/Volumes/share/AppiumTest/AppiumTest/bin/Debug/WebDriver.xml
+/Volumes/share/AppiumTest/AppiumTest/bin/Debug/WebDriver.Support.xml
+/Volumes/share/AppiumTest/AppiumTest/obj/Debug/AppiumTest.csprojResolveAssemblyReference.cache
+/Volumes/share/AppiumTest/AppiumTest/obj/Debug/AppiumTest.dll
+/Volumes/share/AppiumTest/AppiumTest/obj/Debug/AppiumTest.dll.mdb
+/Users/michaelbryant/testing/testing/AppiumTest/AppiumTest/bin/Debug/Program.cs
+/Users/michaelbryant/testing/testing/AppiumTest/AppiumTest/bin/Debug/AppiumTest.dll.config
+/Users/michaelbryant/testing/testing/AppiumTest/AppiumTest/bin/Debug/AppiumTest.dll
+/Users/michaelbryant/testing/testing/AppiumTest/AppiumTest/bin/Debug/AppiumTest.dll.mdb
+/Users/michaelbryant/testing/testing/AppiumTest/AppiumTest/bin/Debug/appium-dotnet-driver.dll
+/Users/michaelbryant/testing/testing/AppiumTest/AppiumTest/bin/Debug/Castle.Core.dll
+/Users/michaelbryant/testing/testing/AppiumTest/AppiumTest/bin/Debug/Newtonsoft.Json.dll
+/Users/michaelbryant/testing/testing/AppiumTest/AppiumTest/bin/Debug/nunit.framework.dll
+/Users/michaelbryant/testing/testing/AppiumTest/AppiumTest/bin/Debug/WebDriver.dll
+/Users/michaelbryant/testing/testing/AppiumTest/AppiumTest/bin/Debug/WebDriver.Support.dll
+/Users/michaelbryant/testing/testing/AppiumTest/AppiumTest/bin/Debug/appium-dotnet-driver.xml
+/Users/michaelbryant/testing/testing/AppiumTest/AppiumTest/bin/Debug/Castle.Core.xml
+/Users/michaelbryant/testing/testing/AppiumTest/AppiumTest/bin/Debug/Newtonsoft.Json.xml
+/Users/michaelbryant/testing/testing/AppiumTest/AppiumTest/bin/Debug/nunit.framework.xml
+/Users/michaelbryant/testing/testing/AppiumTest/AppiumTest/bin/Debug/WebDriver.xml
+/Users/michaelbryant/testing/testing/AppiumTest/AppiumTest/bin/Debug/WebDriver.Support.xml
+/Users/michaelbryant/testing/testing/AppiumTest/AppiumTest/obj/Debug/AppiumTest.dll
+/Users/michaelbryant/testing/testing/AppiumTest/AppiumTest/obj/Debug/AppiumTest.dll.mdb

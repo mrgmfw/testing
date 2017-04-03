@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<test-run id="2" testcasecount="1" result="Passed" total="1" passed="1" failed="0" inconclusive="0" skipped="0" asserts="1" engine-version="3.6.0.0" clr-version="4.0.30319.42000" start-time="2017-03-06 06:03:24Z" end-time="2017-03-06 06:04:20Z" duration="55.900846">
+  <command-line><![CDATA["C:\Program Files (x86)\NUnit.org\nunit-console\nunit3-console.exe" "C:\Users\Mrwav\Documents\Visual Studio 2015\Projects\AppiumTest\AppiumTest\bin\Debug\AppiumTest.dll"]]></command-line>
+  <test-suite type="Assembly" id="0-1002" name="AppiumTest.dll" fullname="C:\Users\Mrwav\Documents\Visual Studio 2015\Projects\AppiumTest\AppiumTest\bin\Debug\AppiumTest.dll" runstate="Runnable" testcasecount="1" result="Passed" start-time="2017-03-06 06:03:24Z" end-time="2017-03-06 06:04:20Z" duration="55.371060" total="1" passed="1" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="1">
+    <environment framework-version="3.6.1.0" clr-version="4.0.30319.42000" os-version="Microsoft Windows NT 10.0.14393.0" platform="Win32NT" cwd="C:\Users\Mrwav\documents\visual studio 2015\Projects\AppiumTest\AppiumTest\bin\Debug" machine-name="DESKTOP-VHLN772" user="Mrwav" user-domain="DESKTOP-VHLN772" culture="en-US" uiculture="en-US" os-architecture="x64" />
+    <settings>
+      <setting name="DisposeRunners" value="True" />
+      <setting name="WorkDirectory" value="C:\Users\Mrwav\documents\visual studio 2015\Projects\AppiumTest\AppiumTest\bin\Debug" />
+      <setting name="ImageRuntimeVersion" value="4.0.30319" />
+      <setting name="ImageTargetFrameworkName" value=".NETFramework,Version=v4.5.2" />
+      <setting name="ImageRequiresX86" value="False" />
+      <setting name="ImageRequiresDefaultAppDomainAssemblyResolver" value="False" />
+      <setting name="NumberOfTestWorkers" value="12" />
+    </settings>
+    <properties>
+      <property name="_PID" value="15480" />
+      <property name="_APPDOMAIN" value="domain-" />
+    </properties>
+    <test-suite type="TestSuite" id="0-1003" name="AppiumTest" fullname="AppiumTest" runstate="Runnable" testcasecount="1" result="Passed" start-time="2017-03-06 06:03:24Z" end-time="2017-03-06 06:04:20Z" duration="55.351586" total="1" passed="1" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="1">
+      <test-suite type="TestFixture" id="0-1000" name="Program+ProgramTest" fullname="AppiumTest.Program+ProgramTest" classname="AppiumTest.Program+ProgramTest" runstate="Runnable" testcasecount="1" result="Passed" start-time="2017-03-06 06:03:24Z" end-time="2017-03-06 06:04:20Z" duration="55.345888" total="1" passed="1" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="1">
+        <test-case id="0-1001" name="AppiumDriverMethodsTestCase" fullname="AppiumTest.Program+ProgramTest.AppiumDriverMethodsTestCase" methodname="AppiumDriverMethodsTestCase" classname="AppiumTest.Program+ProgramTest" runstate="Runnable" seed="1775886330" result="Passed" start-time="2017-03-06 06:03:28Z" end-time="2017-03-06 06:04:18Z" duration="49.783320" asserts="1" />
+      </test-suite>
+    </test-suite>
+  </test-suite>
+</test-run>

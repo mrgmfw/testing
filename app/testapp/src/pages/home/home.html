@@ -1,0 +1,22 @@
+<ion-header>
+  <ion-navbar>
+    <ion-title>Home</ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content padding>
+  <h2>Test App</h2>
+
+  <ion-item>
+    <ion-label fixed>Text Input: </ion-label>
+    <ion-input type="text" class="cTextinput" id="iTextinput" [(ngModel)]="formInput"></ion-input>
+  </ion-item>
+
+  <ion-item>
+    <ion-label fixed>Text Area: </ion-label>
+    <ion-textarea class="cTextarea" id="iTextarea" width="100%" [(ngModel)]="formTextarea"></ion-textarea>
+  </ion-item>
+
+  <button ion-button full class="cBtn" id="iBtn" (click)="showAlert()">Click Me</button>
+
+</ion-content>
