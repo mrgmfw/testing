@@ -68,12 +68,6 @@ namespace AppiumTest
                 
                 WebDriverWait waitController = new WebDriverWait(driver, TimeSpan.FromSeconds(90));
                 
-                ReadOnlyCollection<string> contexts = driver.Contexts;
-                foreach (string con in contexts)
-                {
-                    Console.WriteLine("---test---" + con);
-                }
-                
                 waitController.Until(ExpectedConditions.ElementToBeClickable(By.ClassName("android.widget.EditText")));
                 
                 ReadOnlyCollection<AppiumWebElement> editTexts = driver.FindElementsByClassName("android.widget.EditText");
@@ -82,20 +76,14 @@ namespace AppiumTest
                 {
                   if (editText.GetAttribute("contentDescription") == "Text Input: ")
                   {
-                    //editText.Click();
                     editText.SendKeys(randomOne);
-                    //driver.HideKeyboard();
                   }
                   else if (editText.GetAttribute("contentDescription") == "Text Area: ")
                   {
-                    //editText.Click();
                     editText.SendKeys(randomTwo);
-                    //driver.HideKeyboard();
                   }
                 }
                 
-                //Thread.Sleep(5000);
-                //waitController.Until(ExpectedConditions.ElementToBeClickable(By.ClassName("android.widget.Button")));
                 ReadOnlyCollection<AppiumWebElement> buttons = driver.FindElementsByClassName("android.widget.Button");
                 
                 foreach (AppiumWebElement button in buttons)
@@ -120,104 +108,24 @@ namespace AppiumTest
                 
                 foreach (AppiumWebElement button in buttons)
                 {
-                  string foo = button.GetAttribute("contentDescription");
                   if (button.GetAttribute("contentDescription") == "OK ")
                   {
                     button.Click();
                   }
                 }
                 
-                //driver.Context = "WEBVIEW_com.ionicframework.testapp314219";
+                ReadOnlyCollection<AppiumWebElement> tabs = driver.FindElementsByClassName("android.view.View");
                 
-                //AppiumWebElement alertText = driver.FindElement(By.CssSelector("h3[class='alert-sub-title']"));
-                //Assert.AreEqual("asdfasdf", alertText.Text);
+                foreach (AppiumWebElement tab in tabs)
+                {
+                  if (tab.GetAttribute("contentDescription") == "information circleAbout " || tab.GetAttribute("contentDescription") == "contactsContact ")
+                  {
+                    tab.Click();
+                    Thread.Sleep(1000);
+                  }
+                }
                 
-                //driver.Context = "NATIVE_APP";
                 
-                //driver.FindElement(By.Name("information circleAbout ")).Click();
-                //driver.FindElement(By.Name("contactsContact ")).Click();
-                
-                //AppiumWebElement email = driver.FindElement(By.CssSelector("input[class='app-input email']"));
-                //email.SendKeys("mike@abc.com");
-                //AppiumWebElement password = driver.FindElement(By.CssSelector("input[class='app-input password']"));
-                //password.SendKeys("abc123");
-                //IWebElement signinBtn = driver.FindElement(By.CssSelector("div[class='app-button sign-in']"));
-                //signinBtn.Click();
-
-                //driver.FindElement(By.CssSelector("div[class='app-button clear']")).Execute(DriverCommand.ClickElement);
-                //AppiumWebElement clearBtn = driver.FindElement(By.CssSelector("div[class='app-button clear']"));
-                //ReadOnlyCollection<AppiumWebElement> c = driver.FindElements(By.CssSelector("div[data-clickable-class='active']"));
-                //foreach (AppiumWebElement a in c)
-                //{
-                //    a.Click();
-                //    Console.WriteLine(a.Text);
-                //}
-                //clearBtn.SendKeys(Keys.Enter);
-                //clearBtn.Click();
-                //email.Clear();
-                //email.SendKeys("mike@abc.com");
-                //string s = driver.PageSource;
-                //Console.WriteLine(s);
-                //AppiumWebElement email = driver.FindElement(By.CssSelector("input[class='app-input email']"));
-                //driver.Context = "NATIVE_APP";
-                //email.Tap(1, 50);
-                //driver.Keyboard.SendKeys("mike@abc.com");
-                //email.SendKeys("mike@abc.com");
-                //AppiumWebElement password = driver.FindElement(By.CssSelector("input[class='app-input password']"));
-                //password.SendKeys("abc123");
-                //AppiumWebElement signin = driver.FindElement(By.CssSelector("div[class='app-button sign-in']"));
-                //signin.Click();
-
-                //// Create a wait controller
-                //WebDriverWait waitController = new WebDriverWait(driver, TimeSpan.FromSeconds(30));
-
-                //// Click Add Contact
-                //AppiumWebElement addContactButton = driver.FindElementById("com.example.android.contactmanager:id/addContactButton");    //.FindElementById("android:id/text1");  //.FindElementByClassName("android.widget.TextView");          //FindElementsByAndroidUIAutomator("new UiSelector().enabled(true)");
-                //addContactButton.Click();
-
-                ////waitController.Until(ExpectedConditions.ElementToBeClickable(By.Name("Contact Name")));
-
-                //// Enter name
-                //AppiumWebElement name = driver.FindElement(By.Id("com.example.android.contactmanager:id/contactNameEditText"));
-                //name.SendKeys("Mike");
-
-                //// Enter phone number
-                //AppiumWebElement phone = driver.FindElement(By.Id("com.example.android.contactmanager:id/contactPhoneEditText"));
-                //phone.SendKeys("1112223333");
-
-                //// Change phone contact type
-                //AppiumWebElement phoneType = driver.FindElement(By.Id("com.example.android.contactmanager:id/contactPhoneTypeSpinner"));
-                //phoneType.Click();
-                //AppiumWebElement phoneTypeChoice = driver.FindElement(By.Name("Mobile"));
-                //phoneTypeChoice.Click();
-
-                //// Enter email
-                //AppiumWebElement email = driver.FindElement(By.Id("com.example.android.contactmanager:id/contactEmailEditText"));
-                //email.SendKeys("mike@abc.com");
-
-                //// Change email contact type
-                //AppiumWebElement emailType = driver.FindElement(By.Id("com.example.android.contactmanager:id/contactEmailTypeSpinner"));
-                //emailType.Click();
-                //AppiumWebElement emailTypeChoice = driver.FindElement(By.Name("Work"));
-                //emailTypeChoice.Click();
-
-                //// Click the save button
-                //AppiumWebElement saveButton = driver.FindElement(By.Name("Save")); //com.example.android.contactmanager:id/contactSaveButton
-                //saveButton.Click();
-
-                //// Click show contacts
-                //AppiumWebElement showContactsCheckbox = driver.FindElement(By.Id("com.example.android.contactmanager:id/showInvisible"));
-                //showContactsCheckbox.Click();
-
-                //// Create collection of contacts
-                //ReadOnlyCollection<AppiumWebElement> contactList = driver.FindElements(By.Id("com.example.android.contactmanager:id/contactEntryText"));
-
-                //// Iterate over contacts
-                //foreach (AppiumWebElement contact in contactList)
-                //{
-                //    // Validate Mike contact exist
-                //    Assert.AreEqual("Mike", contact.Text);
-                //}
             }
         }
     }

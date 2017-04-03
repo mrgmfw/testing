@@ -1,7 +1,6 @@
 /Users/michaelbryant/testing/testing/AppiumTest/AppiumTest/bin/Release/Program.cs
 /Users/michaelbryant/testing/testing/AppiumTest/AppiumTest/bin/Release/AppiumTest.dll.config
 /Users/michaelbryant/testing/testing/AppiumTest/AppiumTest/bin/Release/AppiumTest.dll
-/Users/michaelbryant/testing/testing/AppiumTest/AppiumTest/bin/Release/AppiumTest.dll.mdb
 /Users/michaelbryant/testing/testing/AppiumTest/AppiumTest/bin/Release/appium-dotnet-driver.dll
 /Users/michaelbryant/testing/testing/AppiumTest/AppiumTest/bin/Release/Castle.Core.dll
 /Users/michaelbryant/testing/testing/AppiumTest/AppiumTest/bin/Release/Newtonsoft.Json.dll
@@ -15,4 +14,4 @@
 /Users/michaelbryant/testing/testing/AppiumTest/AppiumTest/bin/Release/WebDriver.xml
 /Users/michaelbryant/testing/testing/AppiumTest/AppiumTest/bin/Release/WebDriver.Support.xml
 /Users/michaelbryant/testing/testing/AppiumTest/AppiumTest/obj/Release/AppiumTest.dll
-/Users/michaelbryant/testing/testing/AppiumTest/AppiumTest/obj/Release/AppiumTest.dll.mdb
+/Users/michaelbryant/testing/testing/AppiumTest/AppiumTest/obj/Release/AppiumTest.csprojResolveAssemblyReference.cache

@@ -1,15 +1,8 @@
 ﻿<Properties StartupConfiguration="{0F17B415-2B0C-4955-8E6B-420D210FE8E6}|Unit Tests">
   <MonoDevelop.Ide.Workbench ActiveDocument="AppiumTest/Program.cs">
     <Files>
-      <File FileName="AppiumTest/Program.cs" Line="126" Column="1" />
+      <File FileName="AppiumTest/Program.cs" Line="24" Column="1" />
     </Files>
-    <Pads>
-      <Pad Id="MonoDevelop.UnitTesting.TestPad">
-        <State name="__root__">
-          <Node name="AppiumTest" expanded="True" selected="True" />
-        </State>
-      </Pad>
-    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
